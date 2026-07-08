@@ -5,3 +5,4 @@ Integrantes:
 - Jimenes Trujillo, Jack Bryan (24200109)
 - Vargas Quispe, Sebastian Alexandre (24200131)
 - Bellodas Ramos, Emily Guisell (24200080)
+- Figueroa Estrella, Jhair Alberto (24200013)
