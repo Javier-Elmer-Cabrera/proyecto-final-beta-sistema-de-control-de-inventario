@@ -2,3 +2,4 @@
 # Proyecto Final - Grupo 2
 Integrantes:
 - Yucra Tintaya, Anthony Josue (24200043)
+- Jimenes Trujillo, Jack Bryan (24200109)
