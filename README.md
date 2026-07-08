@@ -7,3 +7,4 @@ Integrantes:
 - Bellodas Ramos, Emily Guisell (24200080)
 - Figueroa Estrella, Jhair Alberto (24200013)
 - Carbajo Gallegos, Gael Stephan (24200092)
+- Peña Torres, Adan Imanol (24200083)
