@@ -3,3 +3,4 @@
 Integrantes:
 - Yucra Tintaya, Anthony Josue (24200043)
 - Jimenes Trujillo, Jack Bryan (24200109)
+- Vargas Quispe, Sebastian Alexandre (24200131)
