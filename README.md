@@ -6,3 +6,4 @@ Integrantes:
 - Vargas Quispe, Sebastian Alexandre (24200131)
 - Bellodas Ramos, Emily Guisell (24200080)
 - Figueroa Estrella, Jhair Alberto (24200013)
+- Carbajo Gallegos, Gael Stephan (24200092)
