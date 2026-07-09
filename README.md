@@ -9,3 +9,4 @@ Integrantes:
 - Carbajo Gallegos, Gael Stephan (24200092)
 - Peña Torres, Adan Imanol (24200083)
 - Saldaña Sanchez, Luis Mario (24200038)
+- Bustos Huayanay, Bruno Renato (24200003)
